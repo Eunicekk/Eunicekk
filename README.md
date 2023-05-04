@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 # GitHub Stats
 <div align="center">
   
-![refactoringK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunicekk&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+![Eunicekk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunicekk&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunicekk&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
