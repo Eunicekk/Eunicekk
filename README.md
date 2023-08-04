@@ -1,6 +1,9 @@
-## 안녕하세요, 끈기 있게 노력하는 개발자 김윤입니다. 👩🏻‍💻
-
-
+## 안녕하세요, 성장하 개발자 김윤입니다. 👩🏻‍💻
+- 목표 달성을 위해 포기하지 않고 끈기 있게 노력합니다.
+- 문제가 발생하면 고민보다 빠르게 도전하고 행동합니다.
+- 철저한 계획 수립을 통해 효율적으로 일합니다.
+- 어려운 일이 발생해도 밝고 긍정적인 태도로 임합니다.
+<br></br>
 <!--
 **Eunicekk/Eunicekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack :
+## Tech Stack
 <div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -36,8 +39,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+<br></br>
 
-# GitHub Stats
+## GitHub Stats
 <div align="center">
   
 ![Eunicekk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunicekk&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
