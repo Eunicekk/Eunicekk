@@ -1,9 +1,10 @@
-## 안녕하세요, 성장하 개발자 김윤입니다. 👩🏻‍💻
+## 안녕하세요, 성장하는 개발자 김윤입니다. 👩🏻‍💻
 - 목표 달성을 위해 포기하지 않고 끈기 있게 노력합니다.
 - 문제가 발생하면 고민보다 빠르게 도전하고 행동합니다.
 - 철저한 계획 수립을 통해 효율적으로 일합니다.
 - 어려운 일이 발생해도 밝고 긍정적인 태도로 임합니다.
 <br></br>
+
 <!--
 **Eunicekk/Eunicekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
