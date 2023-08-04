@@ -1,4 +1,4 @@
-### 안녕하세요, 끈기 있게 노력하는 개발자 김윤입니다. 👩🏻‍💻
+# 안녕하세요, 끈기 있게 노력하는 개발자 김윤입니다. 👩🏻‍💻
 
 <!--
 **Eunicekk/Eunicekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Tech Stack :
+## Tech Stack :
 <div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
