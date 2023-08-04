@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요, 끈기 있게 노력하는 개발자 김윤입니다. 👩🏻‍💻
 
 <!--
 **Eunicekk/Eunicekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
