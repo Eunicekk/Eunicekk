@@ -9,6 +9,10 @@
 
 <br>
 
+<h3 align='center'>✨Project✨</h3>
+
+<div align="center"></div>
+
 <h3 align='center'>✨Used Language✨</h3>
 
 <div align="center">
