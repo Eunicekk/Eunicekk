@@ -7,9 +7,11 @@
   ✔ 미디어커뮤니케이션, 문화콘텐츠융합 전공 <br>
 </p>
 
-<br>
+<h4 align='center'>
+  <a href="https://eunicekk-portfolio.netlify.app/">🐩 포트폴리오 사이트 바로가기</a>
+</h4>
 
-<h3 align='center'>✨Project✨</h3>
+<br>
 
 <div align="center"></div>
 
