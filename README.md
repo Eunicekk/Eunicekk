@@ -8,7 +8,7 @@
 </p>
 
 <h4 align='center'>
-  <a href="https://eunicekk-portfolio.netlify.app/">🐩 포트폴리오 사이트 바로가기</a>
+  <a href="https://eunicekk.framer.website/">🐩 포트폴리오 사이트 바로가기</a>
 </h4>
 
 <br>
