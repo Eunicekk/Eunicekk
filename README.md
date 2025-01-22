@@ -90,17 +90,6 @@
 
 </div>
 
-<h4 align='center'>☑ Studying</h4>
-
-<div align='center'>
-
-![Node.js](https://img.shields.io/badge/Node.js-%235FA04E.svg?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat&logo=jest&logoColor=white)&nbsp;
-![Storybook](https://img.shields.io/badge/Storybook-%23FF4785.svg?style=flat&logo=storybook&logoColor=white)&nbsp;
-![Styled Components](https://img.shields.io/badge/Styled%20Components-%23DB7093.svg?style=flat&logo=styledcomponents&logoColor=white)&nbsp;
-  
-</div>
-
 <br>
 
 <h3 align='center'>✨GitHub Stats✨</h3>
