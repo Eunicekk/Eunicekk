@@ -97,11 +97,11 @@
 <div align="center">
   
 ![Eunicekk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunicekk\&show_icons=true&hide=contribs&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunicekk&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cho_lyn)](https://solved.ac/cho_lyn)
-
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cho_lyn)](https://solved.ac/cho_lyn)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunicekk%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
